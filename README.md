@@ -12,7 +12,7 @@ This repository provides a GraphSLAM front-end aimed at rejecting false loops be
 
 **Citation**: If you use this software, please cite the following paper:
 
-A. Burguera, F. Bonin-Font, E. Guerrero, A. Martorell. Combining Deep Learning and Robust Estimation for Outlier-Resilient Underwater Visual Graph SLAM. In Journal of Marine Science and Engineering, Special Issue Advances in Autonomous Underwater Robotics Based on Machine Learning, MDPI, vol. 10, no. 4:511, pp. 30, april, 2022.
+- Contact the author.
 
 ## Basic usage
 
